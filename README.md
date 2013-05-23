@@ -2,6 +2,8 @@
 
 Create versions of strings where characters that match a regular expression are percent encoded.
 
+[![browser support](https://ci.testling.com/grncdr/pct-encode.png)](https://ci.testling.com/grncdr/pct-encode)
+
 ## Synopsis
 
 ```javascript
