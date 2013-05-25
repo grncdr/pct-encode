@@ -1,5 +1,5 @@
 var test = require('tape')
-var pctEncode = require('./')
+var pctEncode = require('./index.js')
 
 test('Does it work?', function (t) {
   t.plan(1)
