@@ -34,10 +34,10 @@
       "iphone/6.0",
       "ipad/6.0",
       "safari/6.0",
-      "android-browser/4.2"
+      "android-browser/4.2",
       "firefox/nightly",
       "opera/next",
-      "chrome/canary",
+      "chrome/canary"
     ]
   },
   "devDependencies": {
