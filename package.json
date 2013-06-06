@@ -42,5 +42,8 @@
   },
   "devDependencies": {
     "tape": "~1.0.2"
+  },
+  "dependencies": {
+    "amdefine": "0.0.5"
   }
 }
