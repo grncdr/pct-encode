@@ -1,6 +1,6 @@
 {
   "name": "pct-encode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Percent-encode characters in strings matching a regular expression",
   "main": "index.js",
   "scripts": {
@@ -20,14 +20,32 @@
   "testling": {
     "files": "test.js",
     "browsers": {
-      "iexplore": [ 8, 9, 10 ],
-      "chrome": [ "canary" ],
-      "firefox": [ "nightly" ],
-      "opera": [ "next" ],
-      "iphone": [ "6.0" ],
-      "ipad": [ "6.0" ],
-      "safari": [ "6.0" ],
-      "android-browser": [ "4.2" ]
+      "iexplore": [
+        8,
+        9,
+        10
+      ],
+      "chrome": [
+        "canary"
+      ],
+      "firefox": [
+        "nightly"
+      ],
+      "opera": [
+        "next"
+      ],
+      "iphone": [
+        "6.0"
+      ],
+      "ipad": [
+        "6.0"
+      ],
+      "safari": [
+        "6.0"
+      ],
+      "android-browser": [
+        "4.2"
+      ]
     }
   },
   "devDependencies": {
