@@ -1,6 +1,6 @@
 {
   "name": "pct-encode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Percent-encode characters in strings matching a regular expression",
   "main": "index.js",
   "scripts": {
