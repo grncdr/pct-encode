@@ -16,7 +16,7 @@
     "pct",
     "encode"
   ],
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "testling": {
     "files": "test.js",
     "browsers": {
