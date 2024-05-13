@@ -17,37 +17,6 @@
     "encode"
   ],
   "license": "BSD-2-Clause",
-  "testling": {
-    "files": "test.js",
-    "browsers": {
-      "iexplore": [
-        8,
-        9,
-        10
-      ],
-      "chrome": [
-        "canary"
-      ],
-      "firefox": [
-        "nightly"
-      ],
-      "opera": [
-        "next"
-      ],
-      "iphone": [
-        "6.0"
-      ],
-      "ipad": [
-        "6.0"
-      ],
-      "safari": [
-        "6.0"
-      ],
-      "android-browser": [
-        "4.2"
-      ]
-    }
-  },
   "devDependencies": {
     "tape": "~2.0.0"
   }
